@@ -49,12 +49,6 @@ To set up this project locally, follow these steps:
     cd la_fin
     ```
 
-3. **Install dependencies**
-   Make sure you have [Flutter](https://flutter.dev/docs/get-started/install) installed. Then, run:
-    ```sh
-    flutter pub get
-    ```
-
 4. **Run the app**
    You can use a connected device or an emulator to run the app:
     ```sh
@@ -74,7 +68,7 @@ Once the app is running, you can:
 
 You can download the APK file for direct installation on your Android device from the link below:
 
-[Download La Fin APK](path_to_apk_file)
+[Download La Fin APK](https://github.com/OtonyeR/La-Fin/blob/main/app-release.apk)
 
 ## Contributing
 
