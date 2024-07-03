@@ -20,14 +20,17 @@ La Fin is a minimalist store app featuring a selection of sofas, chairs, lamps, 
 
 ## Screenshots
 
-![Home Screen](path_to_home_screen_screenshot.png)
+![Home Screen](https://github.com/OtonyeR/La-Fin/blob/main/screenshots/HomeScreen.jpg)
 *Caption: The Home Screen showcasing our featured products.*
 
-![Product Detail](path_to_product_detail_screenshot.png)
-*Caption: Detailed view of a selected product.*
+![Home Screen 2](https://github.com/OtonyeR/La-Fin/blob/main/screenshots/HomeScreen2.jpg)
+*Caption: The Home Screen showcasing our empty category.*
 
-![Cart](path_to_cart_screenshot.png)
+![Cart Screen](https://github.com/OtonyeR/La-Fin/blob/main/screenshots/CartScreen.jpg)
 *Caption: Your cart showing selected items for purchase.*
+
+![Cart Screen 2](https://github.com/OtonyeR/La-Fin/blob/main/screenshots/CartScreen2.jpg)
+*Caption: Your empty cart screen.*
 
 ## Installation
 
